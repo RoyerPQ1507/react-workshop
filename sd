@@ -1,0 +1,29 @@
+[33mcommit 0bdf41667184d15eca2e15c9b9dd61e700b1e121[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mdev[m[33m)[m
+Author: Royer Pizarro <crroyerpizarro@gmail.com>
+Date:   Wed Mar 1 23:22:03 2023 -0500
+
+    se inicia y se configura las variables de entorno
+
+[33mcommit 680b330410149bbd555532fb710f56454fd51b92[m
+Author: Royer Pizarro <crroyerpizarro@gmail.com>
+Date:   Wed Mar 1 23:07:46 2023 -0500
+
+    crea y configura .editorconfig
+
+[33mcommit a599b773b707ffb9ba32eb1ea45f256da95e0cc7[m
+Author: Royer Pizarro <crroyerpizarro@gmail.com>
+Date:   Wed Mar 1 22:57:08 2023 -0500
+
+    se elimina los comentarios que no sirven del index.html de la carpeta public
+
+[33mcommit d1ba0930690cd45302d917b9ce71fb5e80aa420e[m
+Author: Royer Pizarro <crroyerpizarro@gmail.com>
+Date:   Tue Feb 7 17:46:29 2023 -0500
+
+    se instalan las dependencias iniciales del proyecto
+
+[33mcommit e40d12412988ff4057f62a0b3067d34aef925cc0[m
+Author: Royer Pizarro <crroyerpizarro@gmail.com>
+Date:   Tue Feb 7 17:25:26 2023 -0500
+
+    Initialize project using Create React App
