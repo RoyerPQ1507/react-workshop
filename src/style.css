@@ -1,0 +1,24 @@
+li{
+  text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+
+body{
+  background-color:burlywood;
+}
+
+.w-25{
+  width: 25%;
+}
+.w-30{
+  width: 30%;
+}
+.w-100{
+  width: 100%;
+}
+
+.d-center{
+  margin: 0 auto;
+}

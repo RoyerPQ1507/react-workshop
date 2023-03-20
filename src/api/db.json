@@ -1,0 +1,26 @@
+{
+  "especialidades": [
+    {
+      "id": 1,
+      "nombre": "Especilidad en React"
+    },
+    {
+      "id": 2,
+      "nombre": "Especilidad en Javascript"
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nombre": "React desde cero"
+    },
+    {
+      "id": 2,
+      "nombre": "Programacion orientada a objetos en Python"
+    },
+    {
+      "id": 3,
+      "nombre": "Git desde cero"
+    }
+  ]
+}
