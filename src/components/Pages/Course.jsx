@@ -4,7 +4,7 @@ import { getCourse } from '../../redux/actionCreators';
 import store from '../../redux/store';
 import { Banner } from '../Organisms/Banner';
 
-export const Course = ({}) => {
+export const Course = () => {
 
   const curso=useSelector((state)=>state.courseReducer.course);
 

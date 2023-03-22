@@ -1,6 +1,6 @@
 import React from 'react';
-import { Navigate, Route } from 'react-router-dom';
-import { Home } from '../Pages/Home';
+import { Navigate} from 'react-router-dom';
+
 
 
 export const Public = ({children}) => {
