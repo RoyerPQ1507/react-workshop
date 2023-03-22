@@ -2,25 +2,786 @@
   "especialidades": [
     {
       "id": 1,
-      "nombre": "Especilidad en React"
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F7f85dd19-d72e-4e25-98fb-97856147c89f.png&w=1920&q=75",
+      "subtitle":"Especialidad para desarrolladores web que mejorará su destreza",
+      "name": "Especialidad Desarrollo Web",
+      "data":{
+        "abilities":[
+          {
+            "id":1,
+            "description":"Manejo de elementos basicos de la web"
+          },
+          {
+            "id":2,
+            "description":"Experiencia de usuario"
+          },
+          {
+            "id":3,
+            "description":"Maquetacion web"
+          },
+          {
+            "id":4,
+            "description":"Desarrollo mas complejo de componentes de la interfaz"
+          }
+        ],
+        "knowledge":[
+          {
+            "id":1,
+            "description":"Javascript"
+          },
+          {
+            "id":2,
+            "description":"Css"
+          },
+          {
+            "id":3,
+            "description":"Html"
+          }
+        ],
+        "courses":[
+          {
+            "id":1,
+            "name":"React desde cero",
+            "subtitle":"Aprende todas las bases de react",
+            "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F3d535c9e-e812-4f6a-afc2-be7107c992b9.png&w=1920&q=75"
+          },
+          {
+            "id":2,
+            "name":"Laravel desde cero",
+            "subtitle":"Aprende todas las bases de Laravel",
+            "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F13728245-c59d-4f37-966d-eca63fc08248.png&w=1920&q=75"
+          },
+          {
+            "id":3,
+            "name":"Angular desde cero",
+            "subtitle":"Aprende todas las bases de Angular",
+            "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F990e5ebb-7c93-497b-a497-e6c4d3ab3993.jpg&w=1920&q=75"
+          }
+        ]
+      },
+      "level":"avanzado"
     },
     {
       "id": 2,
-      "nombre": "Especilidad en Javascript"
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F2a9110bb-f14e-45f7-a6e5-6caecd8267d6.png&w=1920&q=75",
+      "subtitle":"Especialidad para desarrolladores web que mejorará su destreza",
+      "name": "Especialidad en Ciencia de Datos",
+      "data":{
+        "abilities":[
+          {
+            "id":1,
+            "description":"Manejo de elementos basicos de la web"
+          },
+          {
+            "id":2,
+            "description":"Experiencia de usuario"
+          },
+          {
+            "id":3,
+            "description":"Maquetacion web"
+          },
+          {
+            "id":4,
+            "description":"Desarrollo mas complejo de componentes de la interfaz"
+          }
+        ],
+        "knowledge":[
+          {
+            "id":1,
+            "description":"Javascript"
+          },
+          {
+            "id":2,
+            "description":"Css"
+          },
+          {
+            "id":3,
+            "description":"Html"
+          }
+        ]
+      },
+      "level":"basico"
+    },
+    {
+      "id": 3,
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2Ffb482f57-1e9b-4075-87db-067cab0660a3.png&w=1920&q=75",
+      "subtitle":"Especialidad para desarrolladores web que mejorará su destreza",
+      "name": "Especialidad en Desarrolllo Movil",
+      "data":{
+        "abilities":[
+          {
+            "id":1,
+            "description":"Manejo de elementos basicos de la web"
+          },
+          {
+            "id":2,
+            "description":"Experiencia de usuario"
+          },
+          {
+            "id":3,
+            "description":"Maquetacion web"
+          },
+          {
+            "id":4,
+            "description":"Desarrollo mas complejo de componentes de la interfaz"
+          }
+        ],
+        "knowledge":[
+          {
+            "id":1,
+            "description":"Javascript"
+          },
+          {
+            "id":2,
+            "description":"Css"
+          },
+          {
+            "id":3,
+            "description":"Html"
+          }
+        ]
+      },
+      "level":"intermedio"
+    },
+    {
+      "id": 4,
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F3bb833f6-d6f6-4aef-848d-922dcaa9402a.png&w=1920&q=75",
+      "subtitle":"Especialidad para desarrolladores web que mejorará su destreza",
+      "name": "Especialidad en Inteligencia artificial",
+      "data":{
+        "abilities":[
+          {
+            "id":1,
+            "description":"Manejo de elementos basicos de la web"
+          },
+          {
+            "id":2,
+            "description":"Experiencia de usuario"
+          },
+          {
+            "id":3,
+            "description":"Maquetacion web"
+          },
+          {
+            "id":4,
+            "description":"Desarrollo mas complejo de componentes de la interfaz"
+          }
+        ],
+        "knowledge":[
+          {
+            "id":1,
+            "description":"Javascript"
+          },
+          {
+            "id":2,
+            "description":"Css"
+          },
+          {
+            "id":3,
+            "description":"Html"
+          }
+        ]
+      },
+      "level":"avanzado"
     }
   ],
   "cursos": [
     {
       "id": 1,
-      "nombre": "React desde cero"
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F3d535c9e-e812-4f6a-afc2-be7107c992b9.png&w=1920&q=75",
+      "name": "React desde cero",
+      "subtitle":"Curso de React completo que enseña todas las bases",
+      "especialidad":"Desarrollo web",
+      "profesor":"Fernando Pascal",
+      "requirement":"<li>Html</li><li>Javascript</li><li>Css</li>"
+      ,
+      "level":"Avanzado",
+      "htmlContent":"<li>Configuracion del entorno de desarrollo</li><li>Sintaxis de la herramienta</li><li>El poder de su uso en el desarrollo</li>",
+      "data":{
+        "section":[
+          {
+            "id":1,
+            "name":"Introduciion de react",
+            "subtitle":"Entenderas cuestiones basicas de este framework",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es react?"
+              },
+              {
+                "id":2,
+                "name":"Componentes"
+              },
+              {
+                "id":3,
+                "name":"Scripts "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":2,
+            "name":"Componentes",
+            "subtitle":"Entenderas cuestiones basicas de los componentes",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un componente?"
+              },
+              {
+                "id":2,
+                "name":"Componentes basicos"
+              },
+              {
+                "id":3,
+                "name":"Componentes avanzados "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":3,
+            "name":"Hooks",
+            "subtitle":"Entenderas el funcionamiento de los hooks",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un Hook?"
+              },
+              {
+                "id":2,
+                "name":"Para que sirve un hook"
+              },
+              {
+                "id":3,
+                "name":"Hooks basicos"
+              },
+              {
+                "id":4,
+                "name":"Hooks avanzados"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": 2,
-      "nombre": "Programacion orientada a objetos en Python"
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F22b4eb1a-aa12-435b-9537-7b88911506c6.png&w=1920&q=75",
+      "name": "Programacion orientada a objetos en Python",
+      "subtitle":"Python para profesionales y expertos",
+      "especialidad":"Desarrollo web",
+      "profesor":"Juan Sotomayor",
+      "requirement":"<li>Html</li><li>Javascript</li><li>Css</li>"
+      ,
+      "level":"",
+      "htmlContent":"<li>Configuracion del entorno de desarrollo</li><li>Sintaxis de la herramienta</li><li>El poder de su uso en el desarrollo</li>",
+      "data":{
+        "section":[
+          {
+            "id":1,
+            "name":"Introduciion de Python",
+            "subtitle":"Entenderas cuestiones basicas de este framework",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es react?"
+              },
+              {
+                "id":2,
+                "name":"Componentes"
+              },
+              {
+                "id":3,
+                "name":"Scripts "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":2,
+            "name":"Componentes",
+            "subtitle":"Entenderas cuestiones basicas de los componentes",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un componente?"
+              },
+              {
+                "id":2,
+                "name":"Componentes basicos"
+              },
+              {
+                "id":3,
+                "name":"Componentes avanzados "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":3,
+            "name":"Hooks",
+            "subtitle":"Entenderas el funcionamiento de los hooks",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un Hook?"
+              },
+              {
+                "id":2,
+                "name":"Para que sirve un hook"
+              },
+              {
+                "id":3,
+                "name":"Hooks basicos"
+              },
+              {
+                "id":4,
+                "name":"Hooks avanzados"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": 3,
-      "nombre": "Git desde cero"
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F2552912c-f922-4ec5-b221-3ab9dd5eca9b.png&w=1920&q=75",
+      "name": "Git desde cero",
+      "subtitle":"Git para desarrolladores profesionales y principiantes",
+      "especialidad":"Desarrollo web",
+      "profesor":"Manuel Quispe",
+      "requirement":"<li>Html</li><li>Javascript</li><li>Css</li>",
+      "level":"Intermediio",
+      "htmlContent":"<li>Configuracion del entorno de desarrollo</li><li>Sintaxis de la herramienta</li><li>El poder de su uso en el desarrollo</li>",
+      "data":{
+        "section":[
+          {
+            "id":1,
+            "name":"Introduciion de Git",
+            "subtitle":"Entenderas cuestiones basicas de este framework",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es react?"
+              },
+              {
+                "id":2,
+                "name":"Componentes"
+              },
+              {
+                "id":3,
+                "name":"Scripts "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":2,
+            "name":"Componentes",
+            "subtitle":"Entenderas cuestiones basicas de los componentes",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un componente?"
+              },
+              {
+                "id":2,
+                "name":"Componentes basicos"
+              },
+              {
+                "id":3,
+                "name":"Componentes avanzados "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":3,
+            "name":"Hooks",
+            "subtitle":"Entenderas el funcionamiento de los hooks",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un Hook?"
+              },
+              {
+                "id":2,
+                "name":"Para que sirve un hook"
+              },
+              {
+                "id":3,
+                "name":"Hooks basicos"
+              },
+              {
+                "id":4,
+                "name":"Hooks avanzados"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F13728245-c59d-4f37-966d-eca63fc08248.png&w=1920&q=75",
+      "name": "Laravel desde cero",
+      "subtitle":"Framework poderoso en este 2023 para ganar mucho dinero",
+      "especialidad":"Desarrollo Backend",
+      "profesor":"Fernando Urrego",
+      "requirement":"<li>Html</li><li>Javascript</li><li>Css</li>"
+      ,
+      "level":"Basico",
+      "htmlContent":"<li>Configuracion del entorno de desarrollo</li><li>Sintaxis de la herramienta</li><li>El poder de su uso en el desarrollo</li>",
+      "data":{
+        "section":[
+          {
+            "id":1,
+            "name":"Introduciion de Laravel",
+            "subtitle":"Entenderas cuestiones basicas de este framework",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es react?"
+              },
+              {
+                "id":2,
+                "name":"Componentes"
+              },
+              {
+                "id":3,
+                "name":"Scripts "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":2,
+            "name":"Componentes",
+            "subtitle":"Entenderas cuestiones basicas de los componentes",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un componente?"
+              },
+              {
+                "id":2,
+                "name":"Componentes basicos"
+              },
+              {
+                "id":3,
+                "name":"Componentes avanzados "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":3,
+            "name":"Hooks",
+            "subtitle":"Entenderas el funcionamiento de los hooks",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un Hook?"
+              },
+              {
+                "id":2,
+                "name":"Para que sirve un hook"
+              },
+              {
+                "id":3,
+                "name":"Hooks basicos"
+              },
+              {
+                "id":4,
+                "name":"Hooks avanzados"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F506ead68-9257-44c7-8ff8-2d0c320b99dd.jpg&w=1920&q=75",
+      "name": "Android Studio desde cero",
+      "subtitle":"Android studio para desarrollar aplicaciones moviles de manera profesional",
+      "especialidad":"Desarrollo Movil",
+      "profesor":"Augusto Club",
+      "requirement": "<li>Html</li><li>Javascript</li><li>Css</li>"
+      ,
+      "level":"Avanzado",
+      "htmlContent":"<li>Configuracion del entorno de desarrollo</li><li>Sintaxis de la herramienta</li><li>El poder de su uso en el desarrollo</li>",
+      "data":{
+        "section":[
+          {
+            "id":1,
+            "name":"Introduciion de Android",
+            "subtitle":"Entenderas cuestiones basicas de este framework",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es react?"
+              },
+              {
+                "id":2,
+                "name":"Componentes"
+              },
+              {
+                "id":3,
+                "name":"Scripts "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":2,
+            "name":"Componentes",
+            "subtitle":"Entenderas cuestiones basicas de los componentes",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un componente?"
+              },
+              {
+                "id":2,
+                "name":"Componentes basicos"
+              },
+              {
+                "id":3,
+                "name":"Componentes avanzados "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":3,
+            "name":"Hooks",
+            "subtitle":"Entenderas el funcionamiento de los hooks",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un Hook?"
+              },
+              {
+                "id":2,
+                "name":"Para que sirve un hook"
+              },
+              {
+                "id":3,
+                "name":"Hooks basicos"
+              },
+              {
+                "id":4,
+                "name":"Hooks avanzados"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "picture":"https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fmedium%2F990e5ebb-7c93-497b-a497-e6c4d3ab3993.jpg&w=1920&q=75",
+      "name": "Angular desde cero",
+      "subtitle":"Angular para desarrollo web que cambiará la forma en que trabajas la web",
+      "especialidad":"Desarrollo web",
+      "profesor":"Fernando Ulloa",
+      "requirement":"<li>Html</li><li>Javascript</li><li>Css</li>",
+      "level":"Avanzado",
+      "htmlContent":"<li>Configuracion del entorno de desarrollo</li><li>Sintaxis de la herramienta</li><li>El poder de su uso en el desarrollo</li>",
+      "data":{
+        "section":[
+          {
+            "id":1,
+            "name":"Introduciion de Angular",
+            "subtitle":"Entenderas cuestiones basicas de este framework",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es react?"
+              },
+              {
+                "id":2,
+                "name":"Componentes"
+              },
+              {
+                "id":3,
+                "name":"Scripts "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":2,
+            "name":"Componentes",
+            "subtitle":"Entenderas cuestiones basicas de los componentes",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un componente?"
+              },
+              {
+                "id":2,
+                "name":"Componentes basicos"
+              },
+              {
+                "id":3,
+                "name":"Componentes avanzados "
+              },
+              {
+                "id":4,
+                "name":"Recomendaciones"
+              }
+            ]
+          },
+          {
+            "id":3,
+            "name":"Hooks",
+            "subtitle":"Entenderas el funcionamiento de los hooks",
+            "clases":[
+              {
+                "id":1,
+                "name":"¿Que es un Hook?"
+              },
+              {
+                "id":2,
+                "name":"Para que sirve un hook"
+              },
+              {
+                "id":3,
+                "name":"Hooks basicos"
+              },
+              {
+                "id":4,
+                "name":"Hooks avanzados"
+              }
+            ]
+          }
+        ]
+      }
     }
+  ],
+  "profesores": [
+    {
+      "id": 1,
+      "name": "Felipe Maicelo",
+      "picture":"https://edteam-media.s3.amazonaws.com/users/avatar/7a223c1d-8400-4b79-982a-46d45c62a667.png",
+      "country":"Peru"
+    },
+    {
+      "id": 2,
+      "name": "Juan Malaga",
+      "picture":"https://edteam-media.s3.amazonaws.com/users/avatar/9cb9767b-fa16-4e00-8589-72b109302e1c.jpeg",
+      "country":"Japon"
+    },
+    {
+      "id": 3,
+      "name": "Antonio Salazar",
+      "picture":"https://edteam-media.s3.amazonaws.com/users/avatar/f3d219b9-6756-48ca-8694-f5a339b4e0af.jpeg",
+      "country":"Bolivia"
+    },
+    {
+      "id": 4,
+      "name": "Mari Salazar",
+      "picture":"https://edteam-media.s3.amazonaws.com/users/avatar/c3e463c6-8c4f-415e-b4c4-a2e283d9a205.png",
+      "country":"Chile"
+    },
+    {
+      "id": 5,
+      "name": "Mari Salazar",
+      "picture":"https://edteam-media.s3.amazonaws.com/users/avatar/d9d4a35c-ce04-418e-ae3f-218235eeb5e1.jpg",
+      "country":"Argentina"
+    },
+    {
+      "id": 6,
+      "name": "Mari Salazar",
+      "picture":"https://lh3.googleusercontent.com/a-/AAuE7mDtT6KukvmBR2pJCzaG5FmOgy0duhIn-XXylW0Z",
+      "country":"España"
+    }
+  ],
+  "publicaciones": [
+    {
+      "id": 1,
+      "author":"Sultanito",
+      "title": "Ayuda con Css urgente",
+      "fecha":"20/04/2019 a las 10:45",
+      "content":"Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam."
+    },
+    
+    {
+      "id": 2,
+      "author":"Fulanito",
+      "title": "Ayuda con Css urgente",
+      "fecha":"21/04/2019 a las 7:45",
+      "content":"Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam."
+    },
+    
+    {
+      "id": 3,
+      "author":"Carlitos",
+      "title": "Ayuda con Css urgente",
+      "fecha":"4/04/2019 a las 10:45",
+      "content":"Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam."
+    },
+    
+    {
+      "id": 4,
+      "author":"Juan Sotomayor",
+      "title": "Ayuda con Css urgente",
+      "fecha":"24/04/2019 a las 11:45",
+      "content":"Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam."
+    },
+    
+    {
+      "id": 5,
+      "author":"Juancin",
+      "title": "Ayuda con Css urgente",
+      "fecha":"27/04/2019 a las 9:45",
+      "content":"Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam."
+    },
+    
+    {
+      "id": 6,
+      "author":"Justin",
+      "title": "Ayuda con Css urgente",
+      "fecha":"20/04/2019 a las 10:45",
+      "content":"Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam.Este texto es de prueba de contenido de una publicacion de un pagina de edteam."
+    }
+    
   ]
+
 }

@@ -6,7 +6,7 @@ ul{
 }
 
 body{
-  background-color:burlywood;
+  /* background-color:burlywood; */
 }
 
 .w-25{
@@ -21,4 +21,50 @@ body{
 
 .d-center{
   margin: 0 auto;
+}
+
+.h-200{
+  height: 200px;
+}
+.h-300{
+  height: 300px;
+}
+
+.bg-red{
+  background-color: red;
+}
+
+/* FLEX */
+.flex-basis-20{
+  flex-basis: 20%;
+}
+.flex-basis-25{
+  flex-basis: 25%;
+}
+.flex-basis-30{
+  flex-basis: 30%;
+}
+.flex-basis-50{
+  flex-basis: 50%;
+}
+.flex-basis-60{
+  flex-basis: 60%;
+}
+.flex-basis-40{
+  flex-basis: 40%;
+}
+.flex-basis-70{
+  flex-basis: 70%;
+}
+.flex-basis-80{
+  flex-basis: 80%;
+}
+
+.gap-20{
+  gap: 20px;
+}
+
+.img-container{
+  height: 90%;
+  width: 100%;
 }

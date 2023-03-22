@@ -1,5 +1,5 @@
 import axios from "axios";
-import clienteAxios from "../global/axios";
+// import clienteAxios from "../global/axios";
 import { 
   GET_ALL_COURSES, 
   GET_ALL_POSTS, 
@@ -15,7 +15,7 @@ const API_URL=process.env.REACT_APP_API_URL;
 
 export const getAllPosts=()=>dispatch =>{
   
-  axios.get(`${API_URL}/posts`)
+  axios.get(`${API_URL}/publicaciones`)
   .then(resp=>{
     return dispatch({
       type: GET_ALL_POSTS,

@@ -64,8 +64,9 @@ export const teacherReducer=(state={},action)=>{
     case GET_ALL_TEACHERS:
       return {
         ...state,
-        teachers:action.teachers
+       teachers:action.teachers 
       }
+
     
     default :
       return state;

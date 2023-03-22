@@ -1,15 +1,13 @@
 import React, { createRef } from 'react';
 import { NavLink } from 'react-router-dom';
+import { PrivateMenu } from '../Molecules/PrivateMenu';
+import { PublicMenu } from '../Molecules/PublicMenu';
 
 
 const menu=createRef();
 const toggleMenu=()=>menu.current.classList.toggle('show');
 
-const removeToken=()=>{
-  localStorage.removeItem("token");
 
-  window.location="/login";
-}
 
 export const Header = () => {
   return (
@@ -42,7 +40,7 @@ export const Header = () => {
     </div> */
 
     <div className='row bg-secondary '>
-      <div className='col-6'>
+      <div className='col-7'>
         <div className='m-4'>
           <NavLink to="/">
 
@@ -53,15 +51,13 @@ export const Header = () => {
           </NavLink>
         </div>
       </div>
-      <div className='col-6'>
+      <div className='col-5'>
         <nav className="m-4" ref={menu}>
-          <ul className='d-flex justify-content-around list-unstyled'>
-            <li ><NavLink exact to="/" className='text-decoration-none text-white'>Inicio</NavLink></li>
-            <li ><NavLink to="/especialidades" className='text-decoration-none text-white'>Especialidades</NavLink></li>
-            <li ><NavLink to="/cursos" className='text-decoration-none text-white'>Cursos</NavLink></li>
-            <li ><NavLink to="/profesores" className='text-decoration-none text-white'>Profesores</NavLink></li>
-            <li ><span onClick={()=>removeToken()}>Cerrar Sesion</span></li>
-          </ul>
+          {
+            localStorage.getItem("token")?
+            <PrivateMenu/>:
+            <PublicMenu/>
+          }
         </nav>
 
         <div className='main-menu-toggle to-l' onClick={()=>toggleMenu()}>
