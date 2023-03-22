@@ -205,20 +205,24 @@
             "subtitle":"Entenderas cuestiones basicas de este framework",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es react?"
+                "id":11,
+                "name":"¿Que es react?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes"
+                "id":12,
+                "name":"Componentes",
+                "video":"807516670"
               },
               {
-                "id":3,
-                "name":"Scripts "
+                "id":13,
+                "name":"Scripts ",
+                "video":"791209068"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":14,
+                "name":"Recomendaciones",
+                "video":"717470380"
               }
             ]
           },
@@ -228,20 +232,24 @@
             "subtitle":"Entenderas cuestiones basicas de los componentes",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un componente?"
+                "id":21,
+                "name":"¿Que es un componente?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes basicos"
+                "id":22,
+                "name":"Componentes basicos",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Componentes avanzados "
+                "id":23,
+                "name":"Componentes avanzados ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":24,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -251,20 +259,24 @@
             "subtitle":"Entenderas el funcionamiento de los hooks",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un Hook?"
+                "id":31,
+                "name":"¿Que es un Hook?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Para que sirve un hook"
+                "id":32,
+                "name":"Para que sirve un hook",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Hooks basicos"
+                "id":33,
+                "name":"Hooks basicos",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Hooks avanzados"
+                "id":34,
+                "name":"Hooks avanzados",
+                "video":"805124764"
               }
             ]
           }
@@ -290,20 +302,24 @@
             "subtitle":"Entenderas cuestiones basicas de este framework",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es react?"
+                "id":11,
+                "name":"¿Que es react?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes"
+                "id":12,
+                "name":"Componentes",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Scripts "
+                "id":13,
+                "name":"Scripts ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":14,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -313,20 +329,24 @@
             "subtitle":"Entenderas cuestiones basicas de los componentes",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un componente?"
+                "id":21,
+                "name":"¿Que es un componente?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes basicos"
+                "id":22,
+                "name":"Componentes basicos",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Componentes avanzados "
+                "id":23,
+                "name":"Componentes avanzados ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":24,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -336,20 +356,24 @@
             "subtitle":"Entenderas el funcionamiento de los hooks",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un Hook?"
+                "id":31,
+                "name":"¿Que es un Hook?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Para que sirve un hook"
+                "id":32,
+                "name":"Para que sirve un hook",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Hooks basicos"
+                "id":33,
+                "name":"Hooks basicos",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Hooks avanzados"
+                "id":34,
+                "name":"Hooks avanzados",
+                "video":"805124764"
               }
             ]
           }
@@ -374,20 +398,24 @@
             "subtitle":"Entenderas cuestiones basicas de este framework",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es react?"
+                "id":11,
+                "name":"¿Que es react?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes"
+                "id":12,
+                "name":"Componentes",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Scripts "
+                "id":13,
+                "name":"Scripts ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":14,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -397,20 +425,24 @@
             "subtitle":"Entenderas cuestiones basicas de los componentes",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un componente?"
+                "id":21,
+                "name":"¿Que es un componente?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes basicos"
+                "id":22,
+                "name":"Componentes basicos",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Componentes avanzados "
+                "id":23,
+                "name":"Componentes avanzados ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":24,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -420,20 +452,24 @@
             "subtitle":"Entenderas el funcionamiento de los hooks",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un Hook?"
+                "id":31,
+                "name":"¿Que es un Hook?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Para que sirve un hook"
+                "id":32,
+                "name":"Para que sirve un hook",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Hooks basicos"
+                "id":33,
+                "name":"Hooks basicos",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Hooks avanzados"
+                "id":34,
+                "name":"Hooks avanzados",
+                "video":"805124764"
               }
             ]
           }
@@ -459,20 +495,24 @@
             "subtitle":"Entenderas cuestiones basicas de este framework",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es react?"
+                "id":11,
+                "name":"¿Que es react?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes"
+                "id":12,
+                "name":"Componentes",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Scripts "
+                "id":13,
+                "name":"Scripts ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":14,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -482,20 +522,24 @@
             "subtitle":"Entenderas cuestiones basicas de los componentes",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un componente?"
+                "id":21,
+                "name":"¿Que es un componente?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes basicos"
+                "id":22,
+                "name":"Componentes basicos",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Componentes avanzados "
+                "id":23,
+                "name":"Componentes avanzados ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":24,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -505,20 +549,24 @@
             "subtitle":"Entenderas el funcionamiento de los hooks",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un Hook?"
+                "id":31,
+                "name":"¿Que es un Hook?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Para que sirve un hook"
+                "id":32,
+                "name":"Para que sirve un hook",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Hooks basicos"
+                "id":33,
+                "name":"Hooks basicos",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Hooks avanzados"
+                "id":34,
+                "name":"Hooks avanzados",
+                "video":"805124764"
               }
             ]
           }
@@ -544,20 +592,24 @@
             "subtitle":"Entenderas cuestiones basicas de este framework",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es react?"
+                "id":121,
+                "name":"¿Que es react?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes"
+                "id":122,
+                "name":"Componentes",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Scripts "
+                "id":123,
+                "name":"Scripts ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":124,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -567,20 +619,24 @@
             "subtitle":"Entenderas cuestiones basicas de los componentes",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un componente?"
+                "id":21,
+                "name":"¿Que es un componente?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes basicos"
+                "id":22,
+                "name":"Componentes basicos",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Componentes avanzados "
+                "id":23,
+                "name":"Componentes avanzados ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":24,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -590,20 +646,24 @@
             "subtitle":"Entenderas el funcionamiento de los hooks",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un Hook?"
+                "id":31,
+                "name":"¿Que es un Hook?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Para que sirve un hook"
+                "id":32,
+                "name":"Para que sirve un hook",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Hooks basicos"
+                "id":33,
+                "name":"Hooks basicos",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Hooks avanzados"
+                "id":34,
+                "name":"Hooks avanzados",
+                "video":"805124764"
               }
             ]
           }
@@ -628,20 +688,24 @@
             "subtitle":"Entenderas cuestiones basicas de este framework",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es react?"
+                "id":11,
+                "name":"¿Que es react?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes"
+                "id":12,
+                "name":"Componentes",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Scripts "
+                "id":13,
+                "name":"Scripts ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":14,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -651,20 +715,24 @@
             "subtitle":"Entenderas cuestiones basicas de los componentes",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un componente?"
+                "id":21,
+                "name":"¿Que es un componente?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Componentes basicos"
+                "id":22,
+                "name":"Componentes basicos",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Componentes avanzados "
+                "id":23,
+                "name":"Componentes avanzados ",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Recomendaciones"
+                "id":24,
+                "name":"Recomendaciones",
+                "video":"805124764"
               }
             ]
           },
@@ -674,26 +742,73 @@
             "subtitle":"Entenderas el funcionamiento de los hooks",
             "clases":[
               {
-                "id":1,
-                "name":"¿Que es un Hook?"
+                "id":31,
+                "name":"¿Que es un Hook?",
+                "video":"805124764"
               },
               {
-                "id":2,
-                "name":"Para que sirve un hook"
+                "id":32,
+                "name":"Para que sirve un hook",
+                "video":"805124764"
               },
               {
-                "id":3,
-                "name":"Hooks basicos"
+                "id":33,
+                "name":"Hooks basicos",
+                "video":"805124764"
               },
               {
-                "id":4,
-                "name":"Hooks avanzados"
+                "id":34,
+                "name":"Hooks avanzados",
+                "video":"805124764"
               }
             ]
           }
         ]
       }
     }
+  ],
+  "clase":[
+    {
+      "id":11,
+      "name":"Basicos de react",
+      "video":"805124764"
+    },
+    {
+      "id":12,
+      "name":"INtermedio de react",
+      "video":"805124764"
+    },
+    {
+      "id":13,
+      "name":"Avanzado de react",
+      "video":"805124764"
+    },
+    {
+      "id":14,
+      "name":"Componentes avanzados",
+      "video":"805124764"
+    },
+    {
+      "id":21,
+      "name":"Basicos de react 1",
+      "video":"805124764"
+    },
+    {
+      "id":22,
+      "name":"Basicos de react 2",
+      "video":"805124764"
+    },
+    {
+      "id":23,
+      "name":"Basicos de react 3",
+      "video":"805124764"
+    },
+    {
+      "id":24,
+      "name":"Basicos de react 4",
+      "video":"805124764"
+    }
+
   ],
   "profesores": [
     {

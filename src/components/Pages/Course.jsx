@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import { useSelector } from 'react-redux'
+import { Link } from 'react-router-dom';
 import { getCourse } from '../../redux/actionCreators';
 import store from '../../redux/store';
 import { Banner } from '../Organisms/Banner';
@@ -51,13 +52,15 @@ export const Course = () => {
                 curso.data.section.map(s=>{
 
                   return(
-                    <div key={s.id}>
+                    <div key={s.id} className="mt-4">
                       <h4>{s.name}</h4>
                       <p>{s.subtitle}</p>
-                      <ol>
+                      <ol className='list-group'>
                         {
                           s.clases.map((cl)=>(
-                            <li key={cl.id}>{cl.name}</li>
+                            <li className="list-group-item" key={cl.id}>
+                              <Link to={`/clase/${cl.id}`} className="text-black">{cl.name}</Link>
+                            </li>
                           ))
                         }
                       </ol>
